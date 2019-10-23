@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "140027077197",
+    "firebase_url": "https://flash-chat-389f0.firebaseio.com",
+    "project_id": "flash-chat-389f0",
+    "storage_bucket": "flash-chat-389f0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:140027077197:android:fc0c7f12eb3feb75",
+        "android_client_info": {
+          "package_name": "com.zireael.dorren.flash_chat_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "140027077197-pa11v2s7ms4gdhu7q9c8k2manrd3vg96.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwWSiI1MOrHlfhw3QRPXa6FVB_cbfvXIE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "140027077197-pa11v2s7ms4gdhu7q9c8k2manrd3vg96.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
